@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -x
+
 export PUB_HOSTED_URL="https://20170317t162249-dot-dartlang-pub.appspot.com"
 export PUB_HOSTED_URL="https://pub.dartlang.org"
 
